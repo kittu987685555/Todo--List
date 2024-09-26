@@ -26,4 +26,6 @@ amework that helps in designing responsive and mobile-first websites. Bootstrap 
 Backend:
 
 JSON Server: A simple and lightweight server for serving JSON data. It simulates a RESTful API, allowing for the easy management of task data through standard HTTP requests (GET, POST, PUT, DELETE). This setup enables a seamless integration between the frontend and backend without the need for a complex server-side implementation.
-![todo list ](https://github.com/user-attachments/assets/373be9f5-fb6a-4236-a345-c7e6013ac670)
+
+![Screenshot 2024-09-27 013916](https://github.com/user-attachments/assets/bda20e6f-2843-4304-8e5f-3628b887bb10)
+![Screenshot 2024-09-27 014043](https://github.com/user-attachments/assets/c204f935-81a5-45c8-b9fa-53f7267f3d08)
