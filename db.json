@@ -1,124 +1,103 @@
 {
-    "tasks": [
-      {
-        "user": "user1",
-        "status": "Not started ",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good ",
-        "id": "5f9c"
-      },
-      {
-        "user": "user2",
-        "status": "completed",
-        "DueDate": "2024-09-19",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "afb4"
-      },
-      {
-        "user": "user3",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "f137"
-      },
-      {
-        "user": "user4",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "a687"
-      },
-      {
-        "user": "user5",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "1216"
-      },
-      {
-        "user": "user6",
-        "status": "completed",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "135b"
-      },
-      {
-        "user": "user7",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "6f16"
-      },
-      {
-        "user": "user8",
-        "status": "completed",
-        "DueDate": "2024-09-12",
-        "priority": "Low",
-        "Description": "This task is good",
-        "id": "7d7d"
-      },
-      {
-        "user": "user9",
-        "status": "completed",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "2c0e"
-      },
-      {
-        "user": "user10",
-        "status": "Not started ",
-        "DueDate": "2024-09-12",
-        "priority": "High",
-        "Description": "This task is good",
-        "id": "350b"
-      },
-      {
-        "user": "user 11",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": "This task is good",
-        "id": "f343"
-      },
-      {
-        "user": "user 12",
-        "status": "completed",
-        "DueDate": "2024-09-12",
-        "priority": "low",
-        "Description": "This task is good",
-        "id": "cd9e"
-      },
-      {
-        "id": "f5d3",
-        "user": "gdgd",
-        "status": "in-progress",
-        "DueDate": "2024-09-06",
-        "priority": "high",
-        "Description": "ns"
-      },
-      {
-        "id": "8172",
-        "user": "xn j",
-        "status": "in-progress",
-        "DueDate": "2024-09-12",
-        "priority": "normal",
-        "Description": ""
-      },
-      {
-        "id": "3ad9",
-        "user": "sghsq",
-        "status": "in-progress",
-        "DueDate": "2024-09-05",
-        "priority": "",
-        "Description": "use me "
-      }
-    ]
-  }
+  "tasks": [
+    {
+      "user": "user1",
+      "status": "in-progress",
+      "DueDate": "2024-09-13",
+      "priority": "high",
+      "Description": "This task is good",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "user": "user2",
+      "status": "Completed",
+      "DueDate": "2024-09-19",
+      "priority": "high",
+      "Description": "This task needs immediate attention"
+    },
+    {
+      "id": "3",
+      "user": "user3",
+      "status": "In progress",
+      "DueDate": "2024-09-25",
+      "priority": "medium",
+      "Description": "Working on the project documentation"
+    },
+    {
+      "id": "4",
+      "user": "user4",
+      "status": "Not started",
+      "DueDate": "2024-09-30",
+      "priority": "low",
+      "Description": "Prepare for the team meeting"
+    },
+    {
+      "id": "5",
+      "user": "user5",
+      "status": "Completed",
+      "DueDate": "2024-09-15",
+      "priority": "high",
+      "Description": "Finish the UI redesign"
+    },
+    {
+      "id": "6",
+      "user": "user6",
+      "status": "In progress",
+      "DueDate": "2024-09-28",
+      "priority": "medium",
+      "Description": "Implement the new feature"
+    },
+    {
+      "id": "7",
+      "user": "user7",
+      "status": "Not started",
+      "DueDate": "2024-10-05",
+      "priority": "normal",
+      "Description": "Conduct a code review"
+    },
+    {
+      "id": "8",
+      "user": "user8",
+      "status": "In progress",
+      "DueDate": "2024-10-10",
+      "priority": "high",
+      "Description": "Optimize the database queries"
+    },
+    {
+      "id": "9",
+      "user": "user9",
+      "status": "Not started",
+      "DueDate": "2024-10-15",
+      "priority": "low",
+      "Description": "Update the API documentation"
+    },
+    {
+      "id": "10",
+      "user": "user10",
+      "status": "Completed",
+      "DueDate": "2024-09-20",
+      "priority": "medium",
+      "Description": "Deploy the application to production"
+    },
+    {
+      "id": "5f9c",
+      "user": "user6",
+      "status": "Not started ",
+      "DueDate": "2024-09-12",
+      "priority": "normal",
+      "Description": "the task is good "
+    },
+    {
+      "id": "cce1"
+    },
+    {
+      "id": "6f16",
+      "user": "user10",
+      "status": "in-progress",
+      "DueDate": "2024-09-12",
+      "priority": "normal",
+      "Description": "need to improve"
+    }
+  ]
+}
