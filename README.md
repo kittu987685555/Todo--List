@@ -1,3 +1,10 @@
+
+
+![Screenshot 2024-09-27 013916](https://github.com/user-attachments/assets/bda20e6f-2843-4304-8e5f-3628b887bb10)
+![Screenshot 2024-09-27 014043](https://github.com/user-attachments/assets/c204f935-81a5-45c8-b9fa-53f7267f3d08)
+
+
+
 To-Do List Application
 Overview
 The To-Do List Application is a user-friendly web-based tool designed to help users manage their tasks efficiently. With a clean and intuitive interface, users can easily organize their daily activities, set priorities, and track the status of their tasks. The application aims to enhance productivity by providing essential features for task management, making it ideal for both personal and professional use.
@@ -26,6 +33,3 @@ amework that helps in designing responsive and mobile-first websites. Bootstrap 
 Backend:
 
 JSON Server: A simple and lightweight server for serving JSON data. It simulates a RESTful API, allowing for the easy management of task data through standard HTTP requests (GET, POST, PUT, DELETE). This setup enables a seamless integration between the frontend and backend without the need for a complex server-side implementation.
-
-![Screenshot 2024-09-27 013916](https://github.com/user-attachments/assets/bda20e6f-2843-4304-8e5f-3628b887bb10)
-![Screenshot 2024-09-27 014043](https://github.com/user-attachments/assets/c204f935-81a5-45c8-b9fa-53f7267f3d08)
