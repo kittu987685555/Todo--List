@@ -1,0 +1,58 @@
+.position-relatives{
+    position: absolute;
+    top: 69px;
+    right: 470px;
+  }
+
+  .input-error {
+    border: 2px solid red;  /* Red border for invalid input */
+  }
+  
+  .text-danger {
+    color: red;  /* Error text color */
+  }
+  /* Overlay background */
+.form-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* dim background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+/* Form wrapper for consistent padding and look */
+.wrapper {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Buttons aligned properly */
+button {
+  padding: 10px 20px;
+}
+
+/* Button margins */
+.btn-warning {
+  background-color: #f0ad4e;
+}
+
+.btn-success {
+  background-color: #5cb85c;
+}
+
+/* Icon positioning in the header */
+h5 {
+  display: flex;
+  align-items: center;
+}
+
+h5 img {
+  margin-right: 8px; /* Spacing between icon and text */
+  width: 20px;       /* Adjust as needed */
+}
